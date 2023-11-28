@@ -3,6 +3,6 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        new LC1071();
+        new LC1431();
     }
 }
